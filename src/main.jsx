@@ -8,7 +8,7 @@ import './App.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/grocery">
+    <BrowserRouter basename="/React-Project-1">
       <StoreProvider>
         <App/>
       </StoreProvider>

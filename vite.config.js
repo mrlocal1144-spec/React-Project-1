@@ -3,5 +3,5 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/grocery/'
+  base: '/React-Project-1/'
 })
